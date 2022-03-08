@@ -1,3 +1,4 @@
 *.pyc
 *.pyo
-*.png
+src/Concurrency_Paralellism/images/*.png
+src/Asynchronism/*.db

@@ -8,6 +8,8 @@ The script read csv sales_data_samples.csv
 - Insert Data 
 - Get records
 
+Finally you can see the file app.db (SQLite) in folder 
+
 ## Installation
 
 You need to install:
