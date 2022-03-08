@@ -2,8 +2,8 @@
 
 Script that do multiple request from POKEAPI and save image in local folder
 
-[Asynchronism](src/Asynchronism/README.md)
-[Concurrency_Paralellism](src/Concurrency_Paralellism/README.md)
+- [Asynchronism](src/Asynchronism/)
+- [Concurrency_Paralellism](src/Concurrency_Paralellism/)
 
 Challenges
 - Rules are simple, we want you to do some code and give us examples of:
