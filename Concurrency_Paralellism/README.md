@@ -10,7 +10,7 @@ Script that do multiple request from POKEAPI and save image in local folder
 
 ## Installation
 
-You need to create .env file inside env folder and set the enviroment variables MAPBOX_TOKEN and SECRET_KEY:
+You need to install:
 
 ```env
 pip install requests

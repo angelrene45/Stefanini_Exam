@@ -10,7 +10,7 @@ The script read csv sales_data_samples.csv
 
 ## Installation
 
-You need to create .env file inside env folder and set the enviroment variables MAPBOX_TOKEN and SECRET_KEY:
+You need to install:
 
 ```env
 pip install databases
